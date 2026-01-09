@@ -12,8 +12,13 @@ To write a **NumPy** program that sorts the elements in each column of a given 2
 5. **Display Output**: Print the original array and the column-wise sorted array.
 
 ## 🧾 Program
-Add code here
+a=int(input("Enter a number: "))
+if (a%2==0):
+    print(f"{a} is Even")
+else:
+    print(f"{a} is Odd")
 
 ## Output
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b8677d1-faea-4343-8560-90dd0facdb3b" />
 
 ## Result
